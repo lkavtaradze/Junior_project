@@ -1,2 +1,5 @@
 # Junior_project
-3Dscanner
+3Dscanner w photogrametry
+
+hardware...
+soft + photogrametry
